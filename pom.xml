@@ -11,6 +11,7 @@
 
     <modules>
 
+        <module>learning-common</module>
     </modules>
 
     <packaging>pom</packaging>
